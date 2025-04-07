@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+
+
+ul {font-style: italic;
+}
+
+h3 {
+   text-align: center;
+
+}
+button:hover {
+    background-color: blue;
+    font-weight: bold;
+}
